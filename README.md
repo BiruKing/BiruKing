@@ -1,4 +1,4 @@
-### Hi there my name is Biruk Kindu and I'am a software engineer  👋
+### Hi there my name is Biruk Kindu and I'am a software engineer ...  👋
 
 <!--
 **BiruKing/BiruKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
